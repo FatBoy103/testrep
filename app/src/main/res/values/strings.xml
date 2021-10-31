@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">myStreamApp</string>
+    <string name="Film">Films</string>
+    <string name="TV">Tv</string>
+    <string name="Stream">Stream</string>
+</resources>
